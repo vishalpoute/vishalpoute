@@ -2,7 +2,7 @@
 - 👀 I’m interested in flutter
 - 🌱 I’m currently learning flutter and block
 - 💞️ I’m looking to collaborate on an internship
-- 📫 Email : poutevishal@gmail.com
+- 📫 Email : vishalpoute0@gmail.com
 
 
 <!---
