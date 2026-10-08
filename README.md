@@ -8,10 +8,10 @@ My project work includes Firebase integration, BLoC and Riverpod state managemen
 
 | Project | Focus |
 | --- | --- |
-| [VulnScan](https://github.com/vishalpoute/vulnscan) | Flutter security client, FastAPI scanning backend and AI-assisted reports |
+| [VulnScan](https://github.com/vishalpoute/vulnscan-complete-project) | Flutter security client, FastAPI scanning backend and AI-assisted reports |
 | [Finance Manager](https://github.com/vishalpoute/Finance-manager-flutter) | Finance dashboard, expense entry and chart UI |
-| [Expense Tracker](https://github.com/vishalpoute/expenses_tracker-main) | BLoC workflows, Firestore repository and expense splitting |
-| [Music App UI](https://github.com/vishalpoute/spotify) | Flutter onboarding, reusable UI and persistent themes |
+| [Expense Tracker](https://github.com/vishalpoute/expense-tracker-flutter) | BLoC workflows, Firestore repository and expense splitting |
+| [Music App UI](https://github.com/vishalpoute/music-app-ui-flutter) | Flutter onboarding, reusable UI and persistent themes |
 
 ## Toolkit
 
